@@ -8,9 +8,9 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        // Phat
+        // Phat 1
         super.onCreate(savedInstanceState)
-        // Phat
+        // Phat 1
         setContentView(R.layout.activity_main)
     }
 }
